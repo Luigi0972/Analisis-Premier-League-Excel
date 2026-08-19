@@ -35,7 +35,9 @@ analisis-premier-league-excel/
 
 # Principales hallazgos
 
-*(completar con las conclusiones una vez interpretados los resultados)*
+No se encontró una relación clara entre la indisciplina de un equipo (tarjetas amarillas y rojas) y su rendimiento (diferencia de goles). Equipos con muchas tarjetas, como Chelsea y Manchester United, tuvieron diferencia de goles positiva, mientras que otros con niveles similares de tarjetas, como Wolves y Everton, tuvieron diferencia de goles muy negativa. Esto sugiere que la indisciplina por sí sola no es un buen predictor del rendimiento de un equipo.
+
+También se observó que los equipos recién ascendidos o con menos temporadas en la liga (Luton, Sunderland, Ipswich, Sheffield United, Watford, Norwich) muestran totales de goles y tarjetas mucho más bajos — no porque sean más disciplinados o defensivos, sino porque jugaron menos partidos en el periodo analizado. Para futuras versiones de este análisis, sería útil normalizar estas métricas por partidos jugados antes de comparar equipos.
 
 # Cómo usar este proyecto
 
